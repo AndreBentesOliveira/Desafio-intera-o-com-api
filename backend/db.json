@@ -1,0 +1,19 @@
+{
+  "usuarios": [
+    {
+      "usuario": "teste",
+      "senha": "teste",
+      "id": 1
+    },
+    {
+      "usuario": "andre222",
+      "senha": "andre",
+      "id": 3
+    },
+    {
+      "usuario": "mario",
+      "senha": "epitaciolandia",
+      "id": 4
+    }
+  ]
+}
